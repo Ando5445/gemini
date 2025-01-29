@@ -1,3 +1,8 @@
 {
-  "message" : "Hi from Git"
+  "messages": [
+    {
+      "sender": "user",
+      "text": "Hi from Git"
+    }
+  ]
 }
